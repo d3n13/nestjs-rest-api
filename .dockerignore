@@ -1,0 +1,9 @@
+node_modules
+.husky
+dist
+test
+commitlint.config.js
+.eslintrc.js
+.prettierrc
+sonar-project.properties
+quality-check.sh
